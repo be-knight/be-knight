@@ -1,7 +1,7 @@
 ### Hi there, I'm Mahmoud Ali 👋
 
 
-- 🌱 I’m currently learning front-end development ...
+- 🌱 I’m currently learning Cybersecurity ...
 
 
 <!--
