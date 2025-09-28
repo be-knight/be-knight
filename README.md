@@ -1,4 +1,4 @@
-### Hi there, I'm Mahmoud Ali 👋
+### Hi there 👋,
 
 
 - 🌱 I’m currently learning Cybersecurity ...
